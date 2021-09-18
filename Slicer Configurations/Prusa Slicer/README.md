@@ -1,3 +1,3 @@
-#Configuration files for Prusa Slicer
+# Configuration files for Prusa Slicer
 
-##To import, go to File - Import - Import config
+## To import, go to File - Import - Import config

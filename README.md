@@ -2,7 +2,7 @@
 
 ## Use at your own risk I have only tested it on my own printer
 
-## Same as the main file but for the SKR 1.4 board
+## Same as the main branch but for the SKR 1.4 board
 
 
 This is currently the firmware I use for the BIQU B1 with the B2 (2 in 1 hotend) with an SKR1.4 Board and TMC2225(2208) drivers and BLtouch. Driver jumpers need to be placed in UART mode. 
